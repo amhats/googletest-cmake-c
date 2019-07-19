@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Desktop/learncmake/matlib/mat.c
+mat.h
+/home/user/Desktop/learncmake/matlib/mat.h
+
+/home/user/Desktop/learncmake/matlib/mat.h
+stdio.h
+-
+
